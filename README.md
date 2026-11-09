@@ -39,3 +39,8 @@ This project analyzes 500 sales records using Microsoft Excel to identify sales 
 
 ## Objective
 To develop practical Excel skills and demonstrate how sales data can be cleaned, analyzed, and converted into meaningful business insights.
+
+
+## Dashboard Preview
+
+![Excel Sales Dashboard](sales%20dashboard.png)
